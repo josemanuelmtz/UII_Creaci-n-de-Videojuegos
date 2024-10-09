@@ -35,20 +35,14 @@
 ## Código Fuente
 
 * Lección 1
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
 * Lección 2
   * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
+  * > Laboratorio 2
+  * > PDF capturas del prototipo 2
 * Lección 3
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
+  * > Tutorial 2D
+  * > Laboratorio 3
+  * > PDF capturas del tutorial 2D
 * Lección 4
   * > Tutorial
   * > Laboratorio
