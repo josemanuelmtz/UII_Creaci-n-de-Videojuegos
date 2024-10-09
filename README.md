@@ -42,7 +42,7 @@
 * Lección 3
   * > Tutorial 2D
   * > Laboratorio 3
-  * > [PDF capturas del tutorial 2D](./Capturas/imagenes 2d.pdf)
+  * > [PDF capturas del tutorial 2D]()
 * Lección 4
   * > Tutorial
   * > Laboratorio
