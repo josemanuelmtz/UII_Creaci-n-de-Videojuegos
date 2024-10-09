@@ -42,7 +42,7 @@
 * Lección 3
   * > Tutorial 2D
   * > Laboratorio 3
-  * > PDF capturas del tutorial 2D
+  * > [PDF capturas del tutorial 2D](https://github.com/josemanuelmtz/UII_Creación-de-Videojuegos/Capturas/imagenes 2d.pdf)
 * Lección 4
   * > Tutorial
   * > Laboratorio
