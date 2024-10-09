@@ -36,9 +36,9 @@
 
 * Lección 1
 * Lección 2
-  * > Tutorial
+  * > Prototipo2
   * > Laboratorio 2
-  * > PDF capturas del prototipo 2
+  * > [PDF capturas del prototipo 2](https://github.com/josemanuelmtz/UII_Creaci-n-de-Videojuegos/blob/main/Capturas/Capturas%20de%20pantalla.pdf)
 * Lección 3
   * > Tutorial 2D
   * > Laboratorio 3
