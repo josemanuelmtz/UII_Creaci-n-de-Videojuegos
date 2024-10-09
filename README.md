@@ -37,7 +37,7 @@
 * Lección 1
   * > [Prototipo 1]() 
 * Lección 2
-  * > [Prototipo2]()
+  * > [Prototipo2](https://github.com/josemanuelmtz/UII_Creaci-n-de-Videojuegos/blob/main/Prototipo02_Jos%C3%A9%20Manuel%20Mart%C3%ADnez%20Garc%C3%ADa.unitypackage)
   * > Laboratorio 2
   * > [PDF capturas del prototipo 2](https://github.com/josemanuelmtz/UII_Creaci-n-de-Videojuegos/blob/main/Capturas/Capturas%20de%20pantalla.pdf)
 * Lección 3
