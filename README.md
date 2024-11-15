@@ -23,7 +23,7 @@
 
 ## Introducción
 
-- Nombre del proyecto
+- Dark Dungeons
 - Objetivo.
 - Plataforma ,Género, Clasificación, Personajes, Escenario.
 - Historia
@@ -42,19 +42,18 @@
   * > [PDF capturas del prototipo 2](https://github.com/josemanuelmtz/UII_Creaci-n-de-Videojuegos/blob/main/Capturas/Capturas%20de%20pantalla.pdf)
 * Lección 3
   * > [Tutorial 2D](https://github.com/josemanuelmtz/UII_Creaci-n-de-Videojuegos/blob/main/Tutorial%202D.unitypackage)
-  * > Laboratorio 3
+  * > Chalenge 2
   * > [PDF capturas del tutorial 2D](https://github.com/josemanuelmtz/UII_Creaci-n-de-Videojuegos/blob/main/Capturas/imagenes%202d.pdf)
 * Lección 4
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
+  * > Tutorial 2D Parte 3
+  * > Chalenge 3
+  * > [PDF capturas del tutorial 2D Parte 5]()
 * Lección 5
-  * > Tutorial
+  * > Tutorial 2D Parte 4
   * > Laboratorio
   * > Desafío
-  * > Prueba
-* VideoJuego
+  * > [PDF capturas del tutorial 2D Parte 4]()
+* [VideoJuego](https://github.com/josemanuelmtz/Dark-_Dungeons-_-Game-.git)
 
 ## Planificación
 
