@@ -1,6 +1,6 @@
 # Creación de Video Juego
 <p align="center">
-    <img src="https://i.blogs.es/aaf220/super-smash-bros-ultimate/840_560.jpg" alt="Logo" width=1200 height=300>
+    <img src="https://areajugones.sport.es/wp-content/uploads/2023/08/personajes-1560x880.jpg.webp" alt="Logo" width=1200 height=300>
 
   <p align="center">
     Short description
