@@ -1,6 +1,6 @@
 # Creación de Video Juego
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/8560750/195950148-0c0df38e-5f96-45ae-87c3-6922738c612d.jpg" alt="Logo" width=1200 height=300>
+    <img src="https://areajugones.sport.es/wp-content/uploads/2023/08/personajes-1560x880.jpg.webp" alt="Logo" width=1200 height=300>
 
   <p align="center">
     Short description
@@ -13,55 +13,34 @@
 
 
 ## Contenido
-
-- [Introducción](#introducción)
-- [Código Fuente](#código-fuente)
-- [Planificación](#planificación)
-- [Autores](#autores)
+- [Autor](#autores)
 - [Copyright](#copyright)
-
-
-## Introducción
-
-- Nombre del proyecto
-- Objetivo.
-- Plataforma ,Género, Clasificación, Personajes, Escenario.
-- Historia
-- Personajes
-- Reglas de Juego.
-- Pantallas de Juego
-- Plan de creación de VideoJuego.
 
 ## Código Fuente
 
 * Lección 1
-  * > [Prototipo 1]() 
+  * > [Prototipo 1](https://github.com/josemanuelmtz/UII_Creaci-n-de-Videojuegos/blob/main/Prototipo01_Jos%C3%A9%20Manuel%20Mart%C3%ADnez%20Garc%C3%ADa.unitypackage) 
 * Lección 2
-  * > [Prototipo2]()
-  * > Laboratorio 2
+  * > [Prototipo2](https://github.com/josemanuelmtz/UII_Creaci-n-de-Videojuegos/blob/main/Prototipo02_Jos%C3%A9%20Manuel%20Mart%C3%ADnez%20Garc%C3%ADa.unitypackage)
+  * > [Challenge 1]()
   * > [PDF capturas del prototipo 2](https://github.com/josemanuelmtz/UII_Creaci-n-de-Videojuegos/blob/main/Capturas/Capturas%20de%20pantalla.pdf)
 * Lección 3
-  * > [Tutorial 2D]()
-  * > Laboratorio 3
+  * > [Tutorial 2D](https://github.com/josemanuelmtz/UII_Creaci-n-de-Videojuegos/blob/main/Tutorial%202D.unitypackage)
+  * > [Chalenge 2]()
   * > [PDF capturas del tutorial 2D](https://github.com/josemanuelmtz/UII_Creaci-n-de-Videojuegos/blob/main/Capturas/imagenes%202d.pdf)
-* Lección 4
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
-* Lección 5
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
-* VideoJuego
+  * > [Tutorial 2D Parte 3]()
+  * > [Chalenge 3]()
+  * > [PDF capturas del tutorial 2D Parte 5]()
+  * > [Tutorial 2D Parte 4]()
+  * > [PDF capturas del tutorial 2D Parte 4]()
+  * > [Tutorial 2D Parte 5]()
+  * > [PDF capturas del tutorial 2D Parte 5]()
+  * > [Tutorial 2D Parte 6]()
+  * > [PDF capturas del tutorial 2D Parte 6]()
+* [VideoJuego](https://github.com/josemanuelmtz/Dark-_Dungeons-_-Game-.git)
 
-## Planificación
-
-![4337008](https://user-images.githubusercontent.com/8560750/195951617-083a7e4d-323d-47b5-8e5e-529ded31bc06.jpg)
-
-## Autores
-Bill Gates & Steve Jobs
+## Autor
+José Manuel Martínez García
 
 ## Copyright
-Derechos Reservados 2022
+Derechos Reservados 2024
